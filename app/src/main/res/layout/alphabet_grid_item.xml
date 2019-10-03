@@ -8,6 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="0.8"
+        android:background="#3185A5"
         android:gravity="center_horizontal"
         android:text="Letter"
         android:textSize="15sp" />
@@ -17,6 +18,7 @@
         android:layout_width="60sp"
         android:layout_height="60sp"
         android:layout_weight="1"
+        android:background="#00998C8A"
         android:gravity="center_horizontal"
         android:text="A"
         android:textSize="30sp" />
